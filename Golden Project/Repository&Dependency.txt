@@ -1,0 +1,19 @@
+Repository for the API used for conversion of Document (.docx) file or Word File to PDF file :
+
+<repository>
+    <id>AsposeJavaAPI</id>
+    <name>Aspose Java API</name>
+    <url>https://repository.aspose.com/repo/</url>
+</repository>
+
+
+
+
+Dependency for the API used for conversion of Document (.docx) file or Word File to PDF file :
+
+<dependency>
+    <groupId>com.aspose</groupId>
+    <artifactId>aspose-words</artifactId>
+    <version>20.1</version>
+    <classifier>jdk17</classifier>
+</dependency>
